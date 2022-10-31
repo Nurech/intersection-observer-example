@@ -1,0 +1,13 @@
+<div class="target-area items-center w-full" #target>
+  <div class="example-box"
+       [style.background-color]="rgb"
+       cdkDrag
+       appIntersectionObserver
+       [root]="target"
+       [continuous]="true"
+       (intersectionRatio)="onIntersectionRatioChange($event)">
+    Drag me around
+    Intersecting {{intersectionRatio}}%
+  </div>
+</div>
+
