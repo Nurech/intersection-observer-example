@@ -1,6 +1,6 @@
 {
   "name": "intersection-observer-example",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "npm start",
