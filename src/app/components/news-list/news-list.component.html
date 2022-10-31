@@ -1,7 +1,7 @@
 <div class="container mx-auto py-8">
 
   <div
-    class="flex scrollbar scrollbar-thumb-blue-700 scrollbar-track-blue-300 overflow-y-scroll scrollbar-thumb-rounded-full scrollbar-track-rounded-full pt-6">
+    class="flex scrollbar scrollbar-thumb-blue-700 scrollbar-track-blue-300 overflow-y-scroll scrollbar-thumb-rounded-full scrollbar-track-rounded-full pt-6" style="overflow: auto;overflow-y: hidden;">
     <ng-container *ngIf="newsList$ | async">
       <ng-container *ngFor="let newsItem of (newsList$ | async); index as i">
         <app-news-item #newsElem [attr.id]="i" [item]="newsItem"></app-news-item>
