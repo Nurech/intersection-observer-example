@@ -1,5 +1,9 @@
 # IntersectionObserverExample
 
+Article can be read at: https://medium.com/@joosep.parts/e86f0253c207
+
+Directive is at: https://github.com/Nurech/intersection-observer-example/blob/master/src/app/directives/intersection-observer.directive.ts
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
 ## Development server
