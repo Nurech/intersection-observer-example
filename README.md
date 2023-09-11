@@ -1,4 +1,7 @@
 # IntersectionObserverExample
+![image](https://github.com/Nurech/intersection-observer-example/assets/20840114/1e4dc7fb-e1d7-4177-b90a-ea584ad8973e)
+![image](https://github.com/Nurech/intersection-observer-example/assets/20840114/b6cc6a3a-84fc-4cca-a5e5-e2b54c615466)
+
 
 Article can be read at: https://medium.com/@joosep.parts/e86f0253c207
 
